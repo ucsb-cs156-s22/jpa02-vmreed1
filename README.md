@@ -1,9 +1,9 @@
 # jpa02-vmreed1
 
 
-Repo: https://ucsb-cs156-s22/jpa02-vmreed1
+Repo: https://github.com/ucsb-cs156-s22/jpa02-vmreed1
 
-On Heroku: https://cs156-s22-jpa02-victoriareed.herokuapp.com
+On Heroku: https://jpa02-victoriareed.herokuapp.com
 
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-vmreed1
